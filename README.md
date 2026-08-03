@@ -57,13 +57,13 @@ nyc-311-covid-resolution-analysis/
 ├── notebooks/
 │   └── nyc_311_resolution_analysis.ipynb
 ├── data/
-│   └── nyc_311_covid_first_3_months_cleaned.csv
+│   └── nyc_311_covid_first_3_months_cleaned.csv (zip file)
 ├── docs/
 │   └── Executive_Summary.pdf
 └── screenshots/
-    ├── borough_distribution.png
-    ├── resolution_by_complaint.png
-    └── mean_vs_median_comparison.png
+    ├── Consumer_complaints_outlier_distribution_chart.png
+    ├── Median_vs_Mean_Chart.png
+    └── Unsanitary_condition_complaint_distribution_chart.png
 ```
 
 ---
