@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Personal safety additions 
+.env 
+*credentials*.json
+*token*
+.DS_Store
